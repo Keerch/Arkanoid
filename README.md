@@ -1,6 +1,8 @@
 # Arkanoid
 Project based on YouTube tutorial: https://www.youtube.com/watch?v=JIad3X3PX6o
 
+This project was developed between October 2021 and January 2022. 
+
 Program Description
 
 
